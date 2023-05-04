@@ -1,0 +1,1 @@
+Networking basics allows you to connect to devices, share information, and communicate with others. It is the backbone of the modern world, as it enables us to stay connected. This guide will cover the basics of networking, from the components of a network, to the different types of networks, and finally, the different protocols used to communicate.
